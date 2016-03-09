@@ -1,0 +1,29 @@
+public class Orang {
+	private String nama;
+	private int umur;
+	private String jenisKel;
+	
+	public class Orang(String nama) {
+		setnama(nama);
+	}
+	
+	public getNama(String nama) {
+		return nama;
+	}
+	
+	public setUmur(int umur) {
+		this.umur = umur;
+	}
+	
+	public getUmur {
+		return umur;
+	}
+	
+	public setKel(String jenisKel) {
+		this.jenisKel = jenisKel;
+	}
+	
+	public getKel {
+		return jenisKel;
+	}
+}
